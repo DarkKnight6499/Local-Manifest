@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/motorola/potter" name="DarkKnight6499/android_device_motorola_potter" remote="github" revision="aos" />
+<project path="kernel/motorola/msm8953" name="DarkKnight6499/kernel_motorola_msm8953" remote="github" revision="oreo-64" />
+<project path="vendor/motorola/potter" name="DarkKnight6499/android_vendor_motorola_potter" remote="github" revision="oreo-64" />
+<project path="hardware/qcom/audio-caf/msm8937" name="DarkKnight6499/hardware_qcom_audio-caf" remote="github" revision="oreo-mr1-8937" />
+<project path="hardware/qcom/media-caf/msm8937" name="DarkKnight6499/hardware_qcom_media-caf" remote="github" revision="oreo-mr1-8937" />
+<project path="hardware/qcom/display-caf/msm8937" name="DarkKnight6499/hardware_qcom_display-caf" remote="github" revision="oreo-mr1-8937" />
+
+</manifest>
