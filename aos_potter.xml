@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project path="device/motorola/potter" name="DarkKnight6499/android_device_motorola_potter" remote="github" revision="aos" />
-<project path="kernel/motorola/msm8953" name="DarkKnight6499/kernel_motorola_msm8953" remote="github" revision="oreo-64" />
-<project path="vendor/motorola/potter" name="DarkKnight6499/android_vendor_motorola_potter" remote="github" revision="oreo-64" />
-
+<project path="device/motorola/potter" name="DarkKnight6499/device_motorola_potter" remote="github" revision="aos" />
+<project path="kernel/motorola/msm8953" name="PixelExperience-Devices/kernel_motorola_msm8953" remote="github" revision="oreo-mr1" />
+<project path="vendor/motorola/potter" name="PixelExperience-Devices/vendor_motorola_potter" remote="github" revision="oreo-mr1" />
+<project path="packages/resources/MotoActions" name="PixelExperience/packages_resources_MotoActions" remote="github" revision="oreo-mr1" />
+  
 </manifest>
